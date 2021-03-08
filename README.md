@@ -12,7 +12,6 @@ I am excited to gain more experience and continue learning.
 - 📫 How to reach me: amyvmillard@gmail.com
 
 
-
 CV
 Amy Millard
 amyvmillard@gmail.com - 07971901686
@@ -108,6 +107,7 @@ Personal Interests
 I am a Barnardo’s volunteer breastfeeding peer supporter; my group was recognised on the Queen’s honour list 2018 and awarded a QAV (MBE for volunteer groups).  
 
 I am the social chair for Dings RFC minis and enjoy organising fundraising and social events.
-
 My other interests include playing rugby, running, kettle bell fitness and reading.
+
+
 ![image](https://user-images.githubusercontent.com/79592479/110351474-c5c6f980-802c-11eb-9536-bcce60b2f1a0.png)
