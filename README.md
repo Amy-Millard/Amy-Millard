@@ -7,6 +7,6 @@ I am excited to gain more experience and learn more.
 
 - 🔭 I’m currently working on, passing my AWS Cloud Practictioner exam. 
 
-- 🌱 I’m currently learning AWS Cloud Services, Python, Databases, DevOps
+- 🌱 I’m currently learning with Tech Talent Academy
 
 - 📫 How to reach me: amyvmillard@gmail.com
