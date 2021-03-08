@@ -2,7 +2,7 @@
 
 I am an AWS Re/Start Student.
 
-I am excited to gain more experience and learn more.
+I am excited to gain more experience and continue learning.
 
 
 - 🔭 I’m currently working on, passing my AWS Cloud Practictioner exam. 
