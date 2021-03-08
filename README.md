@@ -4,7 +4,6 @@ I am an AWS Re/Start Student.
 
 I am excited to gain more experience and learn more. 
 <!--
-**Amy-Millard/Amy-Millard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
