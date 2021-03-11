@@ -1,0 +1,38 @@
+CREATE TABLE Restart(
+ Student_ID INTEGER NOT NULL PRIMARY KEY,
+ Student_Name VARCHAR,
+ Restart_City VARCHAR, 
+ Graduation_Date DATE
+);
+
+INSERT INTO Restart (Student_ID, Student_Name, Restart_City, Graduation_Date)
+VALUES 
+(101, 'Amy', 'Bristol', 20042021),
+(102, 'Irina', 'Bristol', 20042021),
+(103, 'Sudha', 'Bristol', 20042021),
+(104, 'Shital', 'Coventry', 20042021),
+(105, 'Stevie', 'Coventry', 20042021),
+(106, 'Damla', 'Birmingham', 20042021),
+(107, 'Karen', 'Birmingham', 20042021),
+(108, 'Holly', 'Birmingham', 20042021),
+(109, 'Gemma', 'Birmingham', 20042021),
+(110, 'Shefali', 'Bristol', 20042021);
+
+SELECT * FROM RESTART;
+
+CREATE TABLE Cloud_Practitioner (
+  Student_ID INTEGER, certification_date DATE
+);
+INSERT INTO Cloud_Practitioner (Student_ID, certification_date)
+VALUES (100, 20052021),
+(101, 20052021),
+(102, 20052021),
+(103, 20052021),
+(104, 20052021),
+(105, 20052021);
+
+SELECT * FROM Cloud_Practitioner;
+
+SELECT Restart.Student_ID, Student_Name, certification_date
+FROM Restart
+INNER JOIN Cloud_Practitioner ON Restart.Student_ID = Cloud_Practitioner.Student_ID;
